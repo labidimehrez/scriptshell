@@ -1,4 +1,5 @@
-
+#!/bin/bash
+# sudo cp aliasgit.sh /usr/local/bin/
 if [[ -z "$@" ]]; then
     echo >&2 "You must supply an argument!"
     exit 1
